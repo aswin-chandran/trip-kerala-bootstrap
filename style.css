@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -143,4 +144,26 @@ body{
     width: 500px;
   }
 
+  .readmore{
+
+    background-color: #00BD68;
+    border: none;
+  
+    color: white;
+    padding: 4px 50px;
+    border-radius: 4px;
+    transition: 1s ease-in-out;
+    transition-duration: .5s;
+  
+    
+  }
+.readmore:hover{
+  
+  padding: 4px 100px;
+  background-color:#ff3c4c;
+  
+}
+a{
+  text-decoration: none;
+}
 
